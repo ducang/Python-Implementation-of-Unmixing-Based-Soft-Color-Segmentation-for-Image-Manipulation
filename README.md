@@ -4,3 +4,6 @@ A python implementation of
 
 Yagiz Aksoy, Tunc Ozan Aydin, Aljosa Smolic and Marc Pollefeys, ACM Trans. Graph., 2017
 
+run 
+```bash
+pip install opencv-contrib-python matplotlib joblib
